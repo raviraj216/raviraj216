@@ -30,14 +30,14 @@
 
 ### 🌐 Frontend
 
-![React](https://img.shields.io/badge/React-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ### 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-lightgrey)
-![MongoDB](https://img.shields.io/badge/MongoDB-green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 
 ### ☁️ Hosting & Deployment
 
