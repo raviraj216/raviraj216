@@ -1,0 +1,139 @@
+# Hi 👋, I'm Raviraj Mahajan
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Laravel+Expert;CodeIgniter+Developer;Node.js+Developer;React+Frontend;API+Specialist;Backend+Engineer)
+
+💻 **Laravel, CodeIgniter & Node.js Developer | API Specialist**
+🚀 9+ Years of Backend Development Experience
+🌐 Blogger at https://blogkosh.com
+
+---
+
+## 👨‍💻 About Me
+
+* 🔭 Building scalable backend systems & APIs
+* ⚙️ Expert in Laravel, CodeIgniter, Node.js
+* ⚛️ Working with React for modern frontend
+* 🛒 WooCommerce & WordPress customization
+* 📈 Focused on performance & clean architecture
+* 💬 Ask me about APIs, backend systems & debugging
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
+
+![Laravel](https://img.shields.io/badge/Laravel-red)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-orange)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![PHP](https://img.shields.io/badge/PHP-blue)
+
+### 🌐 Frontend
+
+![React](https://img.shields.io/badge/React-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-lightgrey)
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+
+### ☁️ Hosting & Deployment
+
+![AWS EC2](https://img.shields.io/badge/AWS-EC2-orange)
+![AWS S3](https://img.shields.io/badge/AWS-S3-yellow)
+![VPS](https://img.shields.io/badge/VPS-Server-blue)
+![Hostinger](https://img.shields.io/badge/Hostinger-purple)
+![GoDaddy](https://img.shields.io/badge/GoDaddy-green)
+![Bluehost](https://img.shields.io/badge/Bluehost-blue)
+
+### ⚙️ Tools & Others
+
+![Git](https://img.shields.io/badge/Git-black)
+![REST API](https://img.shields.io/badge/API-Integration-informational)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-purple)
+
+---
+
+## 🧠 Real-World Experience
+
+* 🏢 8+ years working with a long-term direct client
+* ☁️ Deployed & managed applications on AWS, VPS & shared hosting
+* 💳 Built WooCommerce credit & installment payment system
+* 🚗 Developed parking slot management system
+* 🔌 Created & maintained REST APIs (Laravel & Node.js)
+* 🐞 Fixed critical bugs in live production systems
+* ⚡ Optimized performance of slow applications
+
+---
+
+## 🚀 What Makes Me Different
+
+* I solve **real business problems**, not just code
+* Strong experience with **live production systems**
+* Work across **PHP + Node.js ecosystems**
+* Experience with **SQL & NoSQL databases**
+* Fast debugging & understanding of existing codebases
+* Clean, scalable architecture
+
+---
+
+## 📈 Impact
+
+* Improved system performance through backend optimization
+* Maintained and scaled long-term production apps
+* Delivered stable third-party API integrations
+* Built full-stack apps using Laravel + React / Node.js + React
+
+---
+
+## 🌐 Live Projects
+
+> ⚡ Real projects I’ve worked on (not demo work)
+
+* 🔗 https://atkwt.com
+  → Built core backend system, APIs, and handled production
+
+* 🔗 https://weburl.in
+  → Developed backend logic and improved performance
+
+* 🔗 https://petworldindore.com
+  → Customized WooCommerce features and fixed issues
+
+* 🔗 https://blogkosh.com
+  → Built and managing SEO-focused blog
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![Streak](https://streak-stats.demolab.com/?user=yourusername\&theme=tokyonight)
+
+---
+
+## 💼 What I Do
+
+* Build scalable backend systems (Laravel / Node.js)
+* Deploy applications on cloud & VPS
+* Design efficient databases (SQL & NoSQL)
+* Develop React-based frontends
+* Fix complex bugs in live applications
+* Create and integrate APIs
+
+---
+
+## 📫 Connect With Me
+
+* 🌐 Website: https://blogkosh.com
+* 📧 Email: [your@email.com](mailto:your@email.com)
+
+---
+
+![Visitors](https://komarev.com/ghpvc/?username=yourusername)
