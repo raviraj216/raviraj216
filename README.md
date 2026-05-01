@@ -23,10 +23,10 @@
 
 ### 💻 Backend
 
-![Laravel](https://img.shields.io/badge/Laravel-red)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-orange)
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![PHP](https://img.shields.io/badge/PHP-blue)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 ### 🌐 Frontend
 
