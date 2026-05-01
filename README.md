@@ -132,8 +132,8 @@
 ## 📫 Connect With Me
 
 * 🌐 Website: https://blogkosh.com
-* 📧 Email: [your@email.com](mailto:your@email.com)
+* 📧 Email: [mraviraj7@gmail.com](mailto:mraviraj7@gmail.com)
 
 ---
 
-![Visitors](https://komarev.com/ghpvc/?username=yourusername)
+![Visitors](https://komarev.com/ghpvc/?username=raviraj216)
