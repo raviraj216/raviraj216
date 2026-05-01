@@ -16,6 +16,7 @@
 * 🛒 WooCommerce & WordPress customization
 * 📈 Focused on performance & clean architecture
 * 💬 Ask me about APIs, backend systems & debugging
+* 💬 Built real-time chat module using APIs / sockets
 
 ---
 
@@ -32,6 +33,10 @@
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 ### 🗄️ Databases
 
