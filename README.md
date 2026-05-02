@@ -46,12 +46,13 @@
 
 ### ☁️ Hosting & Deployment
 
-![AWS EC2](https://img.shields.io/badge/AWS-EC2-orange)
-![AWS S3](https://img.shields.io/badge/AWS-S3-yellow)
-![VPS](https://img.shields.io/badge/VPS-Server-blue)
-![Hostinger](https://img.shields.io/badge/Hostinger-purple)
-![GoDaddy](https://img.shields.io/badge/GoDaddy-green)
-![Bluehost](https://img.shields.io/badge/Bluehost-blue)
+![AWS EC2](https://img.shields.io/badge/AWS-EC2-FF9900?logo=amazon-aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS-S3-569A31?logo=amazon-aws&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-Server-0078D6)
+![Plesk](https://img.shields.io/badge/Plesk-52BBE6?logo=plesk&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6)
+![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB)
+![Bluehost](https://img.shields.io/badge/Bluehost-0033A0)
 
 ### ⚙️ Tools & Others
 
