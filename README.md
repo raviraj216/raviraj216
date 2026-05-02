@@ -114,7 +114,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=raviraj216\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=raviraj216&show_icons=true&theme=tokyonight)
 
 ---
 
