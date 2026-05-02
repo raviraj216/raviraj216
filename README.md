@@ -112,18 +112,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=raviraj216&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![Streak](https://streak-stats.demolab.com/?user=yourusername\&theme=tokyonight)
-
----
-
 ## 💼 What I Do
 
 * Build scalable backend systems (Laravel / Node.js)
