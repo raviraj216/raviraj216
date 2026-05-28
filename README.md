@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Laravel+Expert;CodeIgniter+Developer;Node.js+Developer;React+Frontend;API+Specialist;Backend+Engineer)
 
 💻 **Laravel, CodeIgniter & Node.js Developer | API Specialist**
-🚀 9+ Years of Backend Development Experience
+🚀 12+ Years of Backend Development Experience
 🌐 Blogger at https://blogkosh.com
 
 [![Visit Website](https://img.shields.io/badge/VISIT-WEBSITE-black?style=for-the-badge)](https://ravirajmahajan.vercel.app)
