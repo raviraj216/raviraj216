@@ -100,81 +100,74 @@
 
 🚀 Production-grade systems built for scalability, performance & real business use cases
 
-🍽️ Ordeno – Restaurant Management & Ordering Platform
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━
-🔗 https://ordeno.app
-🧠 Stack: React.js · Node.js · TypeScript · MongoDB
-📌 Type: SaaS / Multi-Restaurant Platform
+### 🍽️ Ordeno – Restaurant Management & Ordering Platform
+🔗 https://ordeno.app  
+🧠 **Stack:** React.js · Node.js · TypeScript · MongoDB  
+📌 **Type:** SaaS / Multi-Restaurant Platform  
 
-💡 Overview:
-A full-scale restaurant ecosystem where admins manage multiple restaurants, menus, and orders while customers can place orders, make payments, and earn rewards.
+💡 **Overview:**  
+Multi-restaurant system for managing menus, orders, payments, and customer rewards.
 
-🎓 Summer Camp & Student Registration CRM
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━
-🔗 https://galgalim.iqdesk.xyz/login
-🧠 Stack: Node.js · MySQL · REST API
-📌 Type: CRM / Registration System
+### 🎓 Summer Camp & Student Registration CRM
+🔗 https://galgalim.iqdesk.xyz/login  
+🧠 **Stack:** Node.js · MySQL · REST API  
+📌 **Type:** CRM / Registration System  
 
-💡 Overview:
-A complete camp management system enabling student registration, enrollment tracking, coupon handling, reporting, and centralized admin control.
+💡 **Overview:**  
+Student registration & camp management system with enrollments, coupons, reporting, and admin panel.
 
-📦 Hazira – Inventory & Offers Management System
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━
-🔗 https://hazira.iqdesk.xyz
-🧠 Stack: CodeIgniter · MySQL · WebSocket
-📌 Type: Inventory + Real-time Communication System
+### 📦 Hazira – Inventory & Offers Management System
+🔗 https://hazira.iqdesk.xyz  
+🧠 **Stack:** CodeIgniter · MySQL · WebSocket Chat  
+📌 **Type:** Inventory + Real-time System  
 
-💡 Overview:
-Inventory tracking system with stock management, promotional offers, and real-time chat using WebSocket integration.
+💡 **Overview:**  
+Inventory tracking system with stock management, offers, and real-time chat using WebSockets.
 
-📄 CRM Form Management System
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━
-🔗 https://office.tofes-mekovan.co.il
-🧠 Stack: CodeIgniter · MySQL · REST API · PDF Engine
-📌 Type: Dynamic Form Builder / CRM
+### 📄 CRM Form Management System
+🔗 https://office.tofes-mekovan.co.il  
+🧠 **Stack:** CodeIgniter · MySQL · REST API · PDF Generation  
+📌 **Type:** Dynamic Form / CRM System  
 
-💡 Overview:
-A flexible form builder system with API integration, PDF generation, database storage, and automated email workflows for business documents.
+💡 **Overview:**  
+Custom form builder with API integration, PDF generation, database storage, and automated email system.
 
-👨‍💼 Employee CRM & Document Management System
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━
-🔗 https://documents.keshet-teamim.co.il/login
-🧠 Stack: Laravel · MySQL · PDF Automation
-📌 Type: HR / Document Management System
+### 👨‍💼 Employee CRM & Document Management System
+🔗 https://documents.keshet-teamim.co.il/login  
+🧠 **Stack:** Laravel · MySQL · PDF Automation  
+📌 **Type:** HR / Document System  
 
-💡 Overview:
-Employee management system for handling records, generating documents, and automating internal workflows with structured data handling.
+💡 **Overview:**  
+Employee management system with document generation, record tracking, and workflow automation.
 
-🅿️ Parking Slot Management System
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━
-🔗 https://parkingapp.keshet-teamim.co.il/
-🧠 Stack: Laravel · MySQL
-📌 Type: Logistics / Parking Management
+### 🅿️ Parking Slot Management System
+🔗 https://parkingapp.keshet-teamim.co.il/  
+🧠 **Stack:** Laravel · MySQL  
+📌 **Type:** Logistics System  
 
-💡 Overview:
-Real-time parking allocation system with item tracking, availability management, and centralized admin dashboard.
+💡 **Overview:**  
+Real-time parking slot allocation system with tracking and admin dashboard.
 
-🌐 Legacy / Supporting Projects
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━
+### 🌐 Legacy / Supporting Projects
 
-🔗 https://weburl.in
-⚙️ Backend optimization, system performance improvements
-
-🔗 https://atkwt.com
-⚙️ Core API development & production system maintenance
-
-🔗 https://petworldindore.com
-⚙️ WooCommerce customization & critical bug fixing
-
-🔗 https://blogkosh.com
-⚙️ SEO-focused blog development & long-term management
+- 🔗 https://weburl.in — Backend optimization & performance improvements  
+- 🔗 https://atkwt.com — Core API development & production support  
+- 🔗 https://petworldindore.com — WooCommerce customization & bug fixing  
+- 🔗 https://blogkosh.com — SEO blog development & management  
 
 ---
 
