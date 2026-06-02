@@ -98,19 +98,83 @@
 
 ## 🌐 Live Projects
 
-> ⚡ Real projects I’ve worked on (not demo work)
+🚀 Production-grade systems built for scalability, performance & real business use cases
 
-* 🔗 https://weburl.in
-  → Developed backend logic and improved performance
+🍽️ Ordeno – Restaurant Management & Ordering Platform
 
-* 🔗 https://atkwt.com
-  → Built core backend system, APIs, and handled production
+━━━━━━━━━━━━━━━━━━━━━━━
+🔗 https://ordeno.app
+🧠 Stack: React.js · Node.js · TypeScript · MongoDB
+📌 Type: SaaS / Multi-Restaurant Platform
 
-* 🔗 https://petworldindore.com
-  → Customized WooCommerce features and fixed issues
+💡 Overview:
+A full-scale restaurant ecosystem where admins manage multiple restaurants, menus, and orders while customers can place orders, make payments, and earn rewards.
 
-* 🔗 https://blogkosh.com
-  → Built and managing SEO-focused blog
+🎓 Summer Camp & Student Registration CRM
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🔗 https://galgalim.iqdesk.xyz/login
+🧠 Stack: Node.js · MySQL · REST API
+📌 Type: CRM / Registration System
+
+💡 Overview:
+A complete camp management system enabling student registration, enrollment tracking, coupon handling, reporting, and centralized admin control.
+
+📦 Hazira – Inventory & Offers Management System
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🔗 https://hazira.iqdesk.xyz
+🧠 Stack: CodeIgniter · MySQL · WebSocket
+📌 Type: Inventory + Real-time Communication System
+
+💡 Overview:
+Inventory tracking system with stock management, promotional offers, and real-time chat using WebSocket integration.
+
+📄 CRM Form Management System
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🔗 https://office.tofes-mekovan.co.il
+🧠 Stack: CodeIgniter · MySQL · REST API · PDF Engine
+📌 Type: Dynamic Form Builder / CRM
+
+💡 Overview:
+A flexible form builder system with API integration, PDF generation, database storage, and automated email workflows for business documents.
+
+👨‍💼 Employee CRM & Document Management System
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🔗 https://documents.keshet-teamim.co.il/login
+🧠 Stack: Laravel · MySQL · PDF Automation
+📌 Type: HR / Document Management System
+
+💡 Overview:
+Employee management system for handling records, generating documents, and automating internal workflows with structured data handling.
+
+🅿️ Parking Slot Management System
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🔗 https://parkingapp.keshet-teamim.co.il/
+🧠 Stack: Laravel · MySQL
+📌 Type: Logistics / Parking Management
+
+💡 Overview:
+Real-time parking allocation system with item tracking, availability management, and centralized admin dashboard.
+
+🌐 Legacy / Supporting Projects
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+🔗 https://weburl.in
+⚙️ Backend optimization, system performance improvements
+
+🔗 https://atkwt.com
+⚙️ Core API development & production system maintenance
+
+🔗 https://petworldindore.com
+⚙️ WooCommerce customization & critical bug fixing
+
+🔗 https://blogkosh.com
+⚙️ SEO-focused blog development & long-term management
 
 ---
 
