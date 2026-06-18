@@ -62,6 +62,17 @@
 ![REST API](https://img.shields.io/badge/API-Integration-informational)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-purple)
 
+### 🤖 AI Development Tools
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor\&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub-Copilot-181717?logo=github\&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI-Codex-412991?logo=openai\&logoColor=white)
+
+### 🧑‍💻 Code Editors
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode\&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?logo=sublimetext\&logoColor=white)
+
 ---
 
 ## 🧠 Real-World Experience
